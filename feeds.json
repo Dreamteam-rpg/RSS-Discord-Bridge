@@ -58,9 +58,5 @@
   "SciFi-Universe critiques": {
     "url": "http://feeds.feedburner.com/SciFi-Universe-Critiques",
     "webhookKey": "actualites"
-  },
-  "SciFi-Universe actualités": {
-    "url": "http://feeds.feedburner.com/SciFi-Universe",
-    "webhookKey": "actualites"
   }
 }
