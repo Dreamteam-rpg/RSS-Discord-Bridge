@@ -11,7 +11,7 @@
     "url": "http://darmont.free.fr/?feed=rss2",
     "webhookKey": "actualites"
   },
-  "Geek Powa": {
+  "Geek Powa Actus": {
     "url": "http://www.geek-powa.fr/feed/",
     "webhookKey": "actualites"
   },
@@ -39,7 +39,7 @@
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbM4Z7OzdBTip4fvMHvwG6A",
     "webhookKey": "podcasts"
   },
-  "Geek Powa": {
+  "Geek Powa Podcasts": {
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJGoap50LL07tseuuCC6HAA",
     "webhookKey": "podcasts"
   },
