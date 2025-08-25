@@ -59,8 +59,8 @@
     "url": "http://feeds.feedburner.com/SciFi-Universe-Critiques",
     "webhookKey": "actualites"
   },
-    "RSS-Discord-Bridge": {
+  "RSS-Discord-Bridge": {
     "url": "https://github.com/Dreamteam-rpg/RSS-Discord-Bridge/releases.atom",
     "webhookKey": "outils"
-  },
+  }
 }
