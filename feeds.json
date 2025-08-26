@@ -62,5 +62,17 @@
   "RSS-Discord-Bridge": {
     "url": "https://github.com/Gabryel666/RSS-Discord-Bridge/releases.atom",
     "webhookKey": "outils"
-  }
+  },
+  "Système Agone": {
+    "url": "https://github.com/Dellatosa/Agone/releases.atom",
+    "webhookKey": "foundry"
+  },
+  "Système Wallow Wide": {
+    "url": "https://github.com/Dellatosa/wallow-wide/releases.atom",
+    "webhookKey": "foundry"
+  },
+  "Module expanse-ui": {
+    "url": "https://github.com/Dellatosa/expanse-ui/releases.atom",
+    "webhookKey": "foundry"
+  },
 }
