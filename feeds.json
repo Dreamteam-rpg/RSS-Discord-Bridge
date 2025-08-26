@@ -74,5 +74,9 @@
   "Module expanse-ui": {
     "url": "https://github.com/Dellatosa/expanse-ui/releases.atom",
     "webhookKey": "foundry"
+  },
+  "Système Dune 2D20 Dellatosa": {
+    "url": "https://github.com/Dellatosa/dune2d20/releases.atom",
+    "webhookKey": "foundry"
   }
 }
