@@ -90,8 +90,8 @@
   "Système Shadowrun 6": {
     "url": "https://github.com/yjeroen/foundry-shadowrun6-eden/releases.atom",
     "webhookKey": "foundry"
+  },
+  "Shadowrun FR": {
+    "url": "https://shadowrun-jdr.fr/feed/",
+    "webhookKey": "actualites"
   }
-}
-}
-}
-}
