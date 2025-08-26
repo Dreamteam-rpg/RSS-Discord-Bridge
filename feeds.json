@@ -63,8 +63,8 @@
     "url": "http://feeds.feedburner.com/SciFi-Universe",
     "webhookKey": "actualites"
   }
-    "News": {
-    "url": "https://github.com/Gabryel666.atom",
+    "RSS-Discord-Bridge": {
+    "url": "https://github.com/Gabryel666/RSS-Discord-Bridge/releases.atom",
     "webhookKey": "outils"
   }
 }
