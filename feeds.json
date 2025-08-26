@@ -64,7 +64,7 @@
     "webhookKey": "actualites"
   }
     "News": {
-    "url": "https://github.com/Gabryel666.atom",
+    "url": "https://github.com/Gabryel666/releases.atom",
     "webhookKey": "outils"
   }
 }
