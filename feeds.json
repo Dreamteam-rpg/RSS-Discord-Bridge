@@ -90,5 +90,9 @@
   "Shadowrun FR": {
     "url": "https://shadowrun-jdr.fr/feed/",
     "webhookKey": "actualites"
+  },
+  "Custom System Builder": {
+    "url": "https://gitlab.com/custom-system-builder/custom-system-builder/-/releases.atom",
+    "webhookKey": "foundry"
   }
 }
