@@ -78,5 +78,20 @@
   "Système Dune 2D20 Dellatosa": {
     "url": "https://github.com/Dellatosa/dune2d20/releases.atom",
     "webhookKey": "foundry"
+  },
+  "Système Vampire 5ed": {
+    "url": "https://github.com/WoD5E-Developers/wod5e/releases.atom",
+    "webhookKey": "foundry"
+  },
+  "Système Legends of the Five Rings": {
+    "url": "https://gitlab.com/team-l5r4/l5r4/-/releases.atom",
+    "webhookKey": "foundry"
+  },
+  "Système Shadowrun 6": {
+    "url": "https://github.com/yjeroen/foundry-shadowrun6-eden/releases.atom",
+    "webhookKey": "foundry"
   }
+}
+}
+}
 }
