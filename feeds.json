@@ -74,5 +74,5 @@
   "Module expanse-ui": {
     "url": "https://github.com/Dellatosa/expanse-ui/releases.atom",
     "webhookKey": "foundry"
-  },
+  }
 }
