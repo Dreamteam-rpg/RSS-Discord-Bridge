@@ -23,10 +23,6 @@
     "url": "http://ptgptb.fr/rss.xml",
     "webhookKey": "actualites"
   },
-  "Jeuxderole.com": {
-    "url": "https://www.jeuxderole.com/feed/",
-    "webhookKey": "actualites"
-  },
   "Hugin & Munin": {
     "url": "http://hu-mu.blogspot.com/feeds/posts/default",
     "webhookKey": "actualites"
