@@ -91,6 +91,10 @@
     "url": "https://shadowrun-jdr.fr/feed/",
     "webhookKey": "actualites"
   },
+  "Carter": {
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCI2-0NWbGsKeKyferFiLP1A",
+    "webhookKey": "foundry"
+  },
   "Custom System Builder": {
     "url": "https://gitlab.com/custom-system-builder/custom-system-builder/-/releases.atom",
     "webhookKey": "foundry"
