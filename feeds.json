@@ -95,6 +95,10 @@
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCI2-0NWbGsKeKyferFiLP1A",
     "webhookKey": "foundry"
   },
+  "Renaud Decode": {
+    "url": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLlPLi1cNWVtWs0spMG6YbDQQ4IDx-4OgI",
+    "webhookKey": "ai"
+  },
   "Custom System Builder": {
     "url": "https://gitlab.com/custom-system-builder/custom-system-builder/-/releases.atom",
     "webhookKey": "foundry"
