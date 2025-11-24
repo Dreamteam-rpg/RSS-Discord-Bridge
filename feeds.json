@@ -59,6 +59,10 @@
     "url": "https://github.com/Gabryel666/RSS-Discord-Bridge/releases.atom",
     "webhookKey": "outils"
   },
+  "Google-Drive-Folder-duplicator": {
+    "url": "https://github.com/Gabryel666/Google-Drive-Folder-duplicator/releases.atom",
+    "webhookKey": "outils"
+  },
   "Système Agone": {
     "url": "https://github.com/Dellatosa/Agone/releases.atom",
     "webhookKey": "foundry"
