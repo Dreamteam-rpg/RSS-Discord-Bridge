@@ -31,10 +31,6 @@
     "url": "https://guerre-plomb.fr/feed/",
     "webhookKey": "actualites"
   },
-  "Roliste TV": {
-    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbM4Z7OzdBTip4fvMHvwG6A",
-    "webhookKey": "podcasts"
-  },
   "Geek Powa Podcasts": {
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJGoap50LL07tseuuCC6HAA",
     "webhookKey": "podcasts"
