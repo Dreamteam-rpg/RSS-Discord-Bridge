@@ -94,6 +94,10 @@
   "Module Campaign Codex": {
     "url": "https://github.com/xthesaintx/cc13/releases.atom",
     "webhookKey": "foundry"
+  },
+  "Système Shadowrun Anarchy II": {
+    "url": "https://github.com/VincentVk9373/sra2/releases.atom",
+    "webhookKey": "foundry"
   }, 
   "Shadowrun FR": {
     "url": "https://shadowrun-jdr.fr/feed/",
