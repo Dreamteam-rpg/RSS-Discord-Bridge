@@ -95,6 +95,10 @@
     "url": "https://github.com/xthesaintx/cc13/releases.atom",
     "webhookKey": "foundry"
   },
+  "Module SRA2 Xpcash": {
+    "url": "https://github.com/Gabryel666/FoundryVTT-SRA2-xpcash/releases.atom",
+    "webhookKey": "foundry"
+  },
   "Système Shadowrun Anarchy II": {
     "url": "https://github.com/VincentVk9373/sra2/releases.atom",
     "webhookKey": "foundry"
