@@ -1,36 +1,4 @@
 {
-  "Le Fix": {
-    "url": "https://lefix.di6dent.fr/feed",
-    "webhookKey": "actualites"
-  },
-  "Le Grog": {
-    "url": "https://www.legrog.org/informations/syndication/accueil",
-    "webhookKey": "actualites"
-  },
-  "Le Cyberspace de Jérôme Darmont": {
-    "url": "http://darmont.free.fr/?feed=rss2",
-    "webhookKey": "actualites"
-  },
-  "Geek Powa Actus": {
-    "url": "http://www.geek-powa.fr/feed/",
-    "webhookKey": "actualites"
-  },
-  "Radio Rôliste": {
-    "url": "http://www.radio-roliste.net/?feed=rss2",
-    "webhookKey": "actualites"
-  },
-  "PTGPTB": {
-    "url": "http://ptgptb.fr/rss.xml",
-    "webhookKey": "actualites"
-  },
-  "Hugin & Munin": {
-    "url": "http://hu-mu.blogspot.com/feeds/posts/default",
-    "webhookKey": "actualites"
-  },
-  "Guerre & plomb JDR": {
-    "url": "https://guerre-plomb.fr/feed/",
-    "webhookKey": "actualites"
-  },
   "Geek Powa Podcasts": {
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJGoap50LL07tseuuCC6HAA",
     "webhookKey": "podcasts"
@@ -46,10 +14,6 @@
   "Ind100": {
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiNjrf7Xv8x0R9u4EI2pgWQ",
     "webhookKey": "podcasts"
-  },
-  "SciFi-Universe critiques": {
-    "url": "http://feeds.feedburner.com/SciFi-Universe-Critiques",
-    "webhookKey": "actualites"
   },
   "RSS-Discord-Bridge": {
     "url": "https://github.com/Gabryel666/RSS-Discord-Bridge/releases.atom",
@@ -103,10 +67,6 @@
     "url": "https://github.com/VincentVk9373/sra2/releases.atom",
     "webhookKey": "foundry"
   }, 
-  "Shadowrun FR": {
-    "url": "https://shadowrun-jdr.fr/feed/",
-    "webhookKey": "actualites"
-  },
   "Carter": {
     "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCI2-0NWbGsKeKyferFiLP1A",
     "webhookKey": "foundry"
